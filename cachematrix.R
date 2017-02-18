@@ -32,7 +32,7 @@ cacheSolve <- function(x, ...) {
   
     ## Test with "if" to determine whether "inv" has been calculated
     if (!is.null(inv)) {
-    ## If "inv" not calculated retrieve from cache, return cached value
+    ## If "inv" stored in cache, return cached value
       message("Just a moment, getting cached data...")
       return(inv)
   }
