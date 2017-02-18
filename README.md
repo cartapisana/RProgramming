@@ -19,4 +19,4 @@ Assignment/Submittal Requirements:
 3. Edit R file contained in the git repository and place solution in assigned file.
 4. Commit completed R file into "cartapisana" repository; push git branch to "cartapisana" GitHub repository.
 5. Submit to Coursera the URL to GitHub repository containing the completed R code.
-6. Submit 40 character SHA-1 hash identifying the final repository commit
+6. Submit 40 character SHA-1 hash identifying the final repository commit.
